@@ -1,3 +1,3 @@
 a, b = map(int, input().split())
-if a < b :
-    print(b)
+
+print(b) if a < b else print(a)
