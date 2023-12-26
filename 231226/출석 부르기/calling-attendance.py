@@ -7,4 +7,4 @@ elif num == 2:
 elif num == 3:
     print("Paul")
 else:
-    print("Vancancy")
+    print("Vacancy")
